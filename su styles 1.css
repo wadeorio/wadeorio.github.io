@@ -6,13 +6,29 @@
     background-repeat: no-repeat;
     border: thin solid #FEFCFC;
     color: #FFFFFF;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 100%;
+    text-align: center;
+    font-size: large;
 }
+.picture {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    float: left;
+    border: thick double #F9060A;
+}
+
 #footer {
     border-bottom: thick solid #F7F7F7;
 }
 .text {
     color: #F5F5F5;
-    font-size: large;
+    font-size: x-large;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
     font-style: normal;
     font-weight: bold;
@@ -22,5 +38,5 @@
     margin-left: 10px;
 }
 .broder {
-    border-top: 10% solid #F90409;
+    border-top: 100% solid #F90409;
 }
